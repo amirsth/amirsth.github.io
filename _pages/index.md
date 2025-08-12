@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: "Amirali Sotoudeh's Homepage"
 ---
@@ -16,3 +16,5 @@ More specifically, my research interests include:
 - Mechanism Design
 - Learning Theory
 - Statistical Models
+
+---
